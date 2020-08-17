@@ -1,0 +1,22 @@
+{
+  "name": "studentperks.io",
+  "version": "0.1.0",
+  "description": "A curated list of online discounts for students",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wtyanan/studentperks.io.git"
+  },
+  "keywords": [
+    "studentperks"
+  ],
+  "author": "Terry Wang",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/wtyanan/studentperks.io/issues"
+  },
+  "homepage": "https://github.com/wtyanan/studentperks.io#readme"
+}
